@@ -1,6 +1,6 @@
-# flutter_application_3
+# Recipe App
 
-A new Flutter project.
+A Wonderful app to connect us with famous dishes across the world.
 
 ## Getting Started
 
