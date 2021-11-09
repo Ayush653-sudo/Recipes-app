@@ -18,5 +18,5 @@ It is a simple flutter app with dummy data ,it show recipes of some famous dishe
 <img src="images/Screenshot_2021-11-09-12-58-00-81_9347c88eefc4674d7f7e46589cb50073.jpg" height="450" width="250">
 
 
-###### Filter Screen
-<img src="images/Screenshot_2021-11-09-12-58-00-81_9347c88eefc4674d7f7e46589cb50073.jpg" height="450" width="250">
+###### Recipe Screen
+<img src="images/Screenshot_2021-11-09-13-00-09-73_9347c88eefc4674d7f7e46589cb50073.jpg" height="450" width="250">
